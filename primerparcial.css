@@ -76,6 +76,8 @@ section {
 
   box-sizing: border-box;
 
+  text-align: center;
+
 }
 
 h2 {
@@ -142,6 +144,7 @@ body::before {
   z-index: -1;
   
 }
+
 
 
 
